@@ -71,3 +71,5 @@ echo "🛑 To stop: kill $FRONTEND_PID $BACKEND_PID"
 if command -v termux-open-url &> /dev/null; then
   termux-open-url http://localhost:9000
 fi
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=parasol-termux.sh
